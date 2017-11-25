@@ -1,0 +1,1 @@
+/usr/bin/c++    -W -Wall -pedantic -std=c++11   CMakeFiles/Generations.dir/src/Allele.cpp.o CMakeFiles/Generations.dir/src/Generation.cpp.o CMakeFiles/Generations.dir/src/Simulation.cpp.o CMakeFiles/Generations.dir/src/main.cpp.o  -o Generations -rdynamic 

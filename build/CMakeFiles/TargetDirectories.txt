@@ -1,0 +1,5 @@
+/home/INTRANET/cykunz/myfiles/SVBA3/personalteam5/build/CMakeFiles/Genetics.dir
+/home/INTRANET/cykunz/myfiles/SVBA3/personalteam5/build/CMakeFiles/genetics_unittest.dir
+/home/INTRANET/cykunz/myfiles/SVBA3/personalteam5/build/CMakeFiles/doc.dir
+/home/INTRANET/cykunz/myfiles/SVBA3/personalteam5/build/gtest/CMakeFiles/gtest.dir
+/home/INTRANET/cykunz/myfiles/SVBA3/personalteam5/build/gtest/CMakeFiles/gtest_main.dir
